@@ -1,1 +1,1 @@
-"# imgrescompressor" 
+# imgrescompressor
